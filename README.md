@@ -2,9 +2,9 @@
 
 <h2>Function:</h2>
 This program 
-1) Generates a compressed file .zip of the folder requested 
-2) Computes the sha of the .zip file 
-3) Transfer both files .zip and .sha from the remote to the local machine
+<li>1) Generates a compressed file .zip of the folder requested</li> 
+<li>2) Computes the sha of the .zip file </li>
+<li>3) Transfers both files .zip and .sha from the remote to the local machine </li>
 
 <h2>How to install procedure:</h2>
 <li>1) Download the binary from github at https://github.com/yvester/RamenerLeChat/archive/master.zip</li>
