@@ -13,10 +13,10 @@ This program
 <li>4) Execute the install.bat file as administrator.</li>
 
 <h2>How to use the program:</h2>
-<li>1) In the landing folder, create a .zip file that contain the nale of the last node of the folder to compress.</li>
-<li>2) Right click on the filename.zip you want to see the sha.</li>
+<li>1) In the landing folder, create manually the [].zip file </li>
+<li>2) Right click on the [].zip .</li>
 <li>3) Click on RamenerLeChat.</li>
-<li>4) the .zip and .sha are made available on the local machine.</li>
+<li>4) The .zip and .sha are made available on the local machine.</li>
  
 
 
