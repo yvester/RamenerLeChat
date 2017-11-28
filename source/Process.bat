@@ -30,7 +30,7 @@ echo   echo "Folder %ServerName%%PathName%%ProjectName% does not exist"  ^> %Pro
 echo exit
 echo fi
 echo zip -r /home/tibco/ramenerlechat/%ProjectName%.zip ./%ProjectName% 
-echo md5sum ./%ProjectName%.zip ^> /home/tibco/ramenerlechat/%ProjectName%.sha
+echo md5sum /home/tibco/ramenerlechat/%ProjectName%.zip ^> /home/tibco/ramenerlechat/%ProjectName%.sha
 echo sleep 5s 
 echo fi
 ) > %TEMP%\remotescript.txt
